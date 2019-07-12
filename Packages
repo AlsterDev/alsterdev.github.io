@@ -1,1 +1,14 @@
-Package: com.alsterdev.ACLS001 
+Package: com.alsterdev.acls001
+Name: ACLS001 
+Version: 1.0.0 
+Architecture: iphoneos-arm 
+Description: A LS and SB widget for iPhone and iPad
+Maintainer: AlsterDev 
+Author: AlsterDev 
+Section: Widgets 
+Depends: 
+Filename: 
+Size: 957917 
+MD5sum: 40b0f11dd64e537d3686d98354d62f85
+SHA1: 8e15cd11e2d4c1566c00cb428c954e9a16b4f097
+SHA256: 838e0e6724be103abb853d551e968638bdc38d01b9ec831a3b5a2981bd20647a
