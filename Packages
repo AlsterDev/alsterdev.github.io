@@ -13,6 +13,7 @@ Size: 75132
 MD5sum: cd8f69f436e1136f233d773f342aef81
 SHA1: 3f5ee3074c58ad45b3a2fbcb4578926e3e7d968f
 SHA256: 657C89DCF73655C263B144C72F7076EA694AC1DC15AE91E7A9CB32ABE10D7F9B
+Icon: https://alsterdev.github.io/packageIcons/acls001.png
 
 Package: com.alsterdev.acls002
 Name: ACLS002 
