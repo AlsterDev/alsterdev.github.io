@@ -1,0 +1,13 @@
+{  
+   "class":"FeaturedBannersView",
+   "itemSize":"{263, 148}",
+   "itemCornerRadius":10,
+   "banners":[  
+      {  
+         "url":"https://alsterdev.github.io/featuredBannerImages/ACLS001.png",
+         "title":"ACLS001",
+         "package":"com.alsterdev.acls001",
+         "hideShadow":false
+      }
+   ]
+}
