@@ -8,8 +8,7 @@ Author: AlsterDev
 Section: Widgets 
 Depends: 
 Filename: debs/com.alsterdev.acls001_1.0.0_iphoneos-arm.deb
-Size: 957917 
-MD5sum: 40b0f11dd64e537d3686d98354d62f85
-SHA1: 8e15cd11e2d4c1566c00cb428c954e9a16b4f097
-SHA256: 838e0e6724be103abb853d551e968638bdc38d01b9ec831a3b5a2981bd20647a
-Icon: file:///packageIcons/acls001.png
+Size: 345376
+MD5sum: c0223335a976b2f6d7c77483182f5c38
+SHA1: afc911a97ef67c923c26baebdfd9781427e8ce20
+SHA256: 63d4c762b3e9b57421fcce08c9811e3997922fe6fea557639ebac357619fcdc0
