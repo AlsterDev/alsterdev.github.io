@@ -6,6 +6,7 @@ Description: A LS and SB widget for iPhone and iPad
 Maintainer: AlsterDev 
 Author: AlsterDev 
 Section: Widgets 
+Depiction: depics/ACLS001/index.html
 Depends: 
 Filename: debs/com.alsterdev.acls001_1.0.0_iphoneos-arm.deb
 Size: 345376
