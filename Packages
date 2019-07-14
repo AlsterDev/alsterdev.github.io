@@ -2,7 +2,7 @@ Package: com.alsterdev.acls001
 Name: ACLS001 
 Version: 1.0.0 
 Architecture: iphoneos-arm 
-Description: A LS and SB widget for iPhone and iPad
+Description: A stylish XenHTML lockscreen and homescreen widget for iPhones and iPads. Requires XenHTML and XenInfo to be installed.
 Maintainer: AlsterDev 
 Author: AlsterDev 
 Section: Widgets 
