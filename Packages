@@ -5,7 +5,7 @@ Architecture: iphoneos-arm
 Description: A stylish XenHTML lockscreen and homescreen widget for iPhones and iPads. Requires XenHTML and XenInfo to be installed.
 Maintainer: AlsterDev 
 Author: AlsterDev 
-Section: Widgets 
+Section: Addons (XenHTML) 
 Depiction: https://alsterdev.github.io/depics/ACLS001/depiction.html
 Depends: com.matchstic.xenhtml, com.junesiphone.xeninfo
 Filename: debs/com.alsterdev.acls001_1.0.0_iphoneos-arm.deb
