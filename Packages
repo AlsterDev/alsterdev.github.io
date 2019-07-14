@@ -9,7 +9,23 @@ Section: Addons (XenHTML)
 Depiction: https://alsterdev.github.io/depics/ACLS001/depiction.html
 Depends: com.matchstic.xenhtml, com.junesiphone.xeninfo
 Filename: debs/com.alsterdev.acls001_1.0.0_iphoneos-arm.deb
-Size: 92064
-MD5sum: 4e93f08bbee3ebb73b2e619f1a62fd24
-SHA1: a2e9ba27d66cbd891cf79f5b7e64f0f644f647d3
-SHA256: 7BD3A6413C85E16944D056C32E2064F48DCE9513B9B87D607BDE882B943160C2
+Size: 75132
+MD5sum: cd8f69f436e1136f233d773f342aef81
+SHA1: 3f5ee3074c58ad45b3a2fbcb4578926e3e7d968f
+SHA256: 657C89DCF73655C263B144C72F7076EA694AC1DC15AE91E7A9CB32ABE10D7F9B
+
+Package: com.alsterdev.acls002
+Name: ACLS002 
+Version: 1.0.0 
+Architecture: iphoneos-arm 
+Description: A stylish, re-designed status bar for notchless devices (iPhone X and XS.) Requires XenHTML and XenInfo to be installed.
+Maintainer: AlsterDev 
+Author: AlsterDev 
+Section: Addons (XenHTML) 
+Depiction: https://alsterdev.github.io/depics/ACLS002/depiction.html
+Depends: com.matchstic.xenhtml, com.junesiphone.xeninfo
+Filename: debs/com.alsterdev.acls002_1.0.0_iphoneos-arm.deb
+Size: 87700
+MD5sum: 7f1752d541148470ccc1de151a9f879d
+SHA1: 9033095217e3269aa5647e293ba56bdbd41b7f47
+SHA256: C5F423A651BE2F87ACB9A364E979B9BB7807DFC6AA23BD36FF4C74E37287441E
