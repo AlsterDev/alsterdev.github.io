@@ -12,7 +12,7 @@ Filename: debs/com.alsterdev.acls001_1.0.0_iphoneos-arm.deb
 Size: 75168
 MD5sum: 8680326acab1be992aed001cf965a1d4
 SHA1: 86375f2f0e5acf523e116692ce27adcaa46d3fc5
-SHA256: E66AA099B71D8842461893C5D7E2497BD28BB2BD5862A5912CCF03CC27BEC9CA
+SHA256: e66aa099b71d8842461893c5d7e2497bd28bb2bd5862a5912ccf03cc27bec9ca
 Icon: https://alsterdev.github.io/packageIcons/widgetIcon.png
 
 Package: com.alsterdev.acls002
@@ -29,5 +29,5 @@ Filename: debs/com.alsterdev.acls002_1.0.0_iphoneos-arm.deb
 Size: 87740
 MD5sum: 84b42abea8f11c8f720e6f2b9142ad70
 SHA1: d80472d19c74fcc276d89c67203cb1abb9994c8e
-SHA256: 55CC7B608E5B34C5C2A6102C85C1864824539493FF26EDECF83E389EBBB9A8BC
+SHA256: 55cc7b608e5b34c5c2a6102c85c1864824539493ff26edecf83e389ebbb9a8bc
 Icon: https://alsterdev.github.io/packageIcons/widgetIcon.png
