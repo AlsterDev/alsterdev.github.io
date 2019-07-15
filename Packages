@@ -9,7 +9,7 @@ Section: Addons (XenHTML)
 Depiction: https://alsterdev.github.io/depics/ACLS001/depiction.html
 Depends: com.matchstic.xenhtml, com.junesiphone.xeninfo
 Filename: debs/com.alsterdev.acls001_1.0.0_iphoneos-arm.deb
-Size: 75168
+Size: 75132
 MD5sum: 8680326acab1be992aed001cf965a1d4
 SHA1: 86375f2f0e5acf523e116692ce27adcaa46d3fc5
 SHA256: E66AA099B71D8842461893C5D7E2497BD28BB2BD5862A5912CCF03CC27BEC9CA
@@ -26,7 +26,7 @@ Section: Addons (XenHTML)
 Depiction: https://alsterdev.github.io/depics/ACLS002/depiction.html
 Depends: com.matchstic.xenhtml, com.junesiphone.xeninfo
 Filename: debs/com.alsterdev.acls002_1.0.0_iphoneos-arm.deb
-Size: 87740
+Size: 87700
 MD5sum: 84b42abea8f11c8f720e6f2b9142ad70
 SHA1: d80472d19c74fcc276d89c67203cb1abb9994c8e
 SHA256: 55CC7B608E5B34C5C2A6102C85C1864824539493FF26EDECF83E389EBBB9A8BC
