@@ -27,7 +27,7 @@ Depiction: https://alsterdev.github.io/depics/ACLS002/depiction.html
 Depends: com.matchstic.xenhtml, com.junesiphone.xeninfo
 Filename: debs/com.alsterdev.acls002_1.1_iphoneos-arm.deb
 Size: 75112
-MD5sum: 709ef63a334aa325f4f45861ebb496a3
-SHA1: aec7d2349c49cfcc70339cfdc10e461a36f16883
-SHA256: dcd1bf77d5c94d010db08ae4411c3b029e15213d98721e41ac97109376501f8e
+MD5sum: 285a865fa4460972d126ac8a920df9c9
+SHA1: 57c428cdd1b194c20111cc53d5a5a11775b1ca04
+SHA256: a41a2fe340a704d07099de64acc440ae45aff34dc3a5b16fc8e22e9e7a5692af
 Icon: https://alsterdev.github.io/packageIcons/widgetIcon.png
