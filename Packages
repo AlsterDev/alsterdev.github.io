@@ -1,6 +1,6 @@
 Package: com.alsterdev.acls001
 Name: ACLS001 
-Version: 1.0.0 
+Version: 2.0 
 Architecture: iphoneos-arm 
 Description: A stylish XenHTML lockscreen and homescreen widget for iPhones and iPads. Requires XenHTML and XenInfo to be installed.
 Maintainer: AlsterDev 
@@ -8,16 +8,16 @@ Author: AlsterDev
 Section: Addons (XenHTML) 
 Depiction: https://alsterdev.github.io/depics/ACLS001/depiction.html
 Depends: com.matchstic.xenhtml, com.junesiphone.xeninfo
-Filename: debs/com.alsterdev.acls001_1.0.0_iphoneos-arm.deb
-Size: 75168
-MD5sum: 8680326acab1be992aed001cf965a1d4
-SHA1: 86375f2f0e5acf523e116692ce27adcaa46d3fc5
-SHA256: e66aa099b71d8842461893c5d7e2497bd28bb2bd5862a5912ccf03cc27bec9ca
+Filename: debs/com.alsterdev.acls001_2.0_iphoneos-arm.deb
+Size: 86004
+MD5sum: 76a1d397d2ea01f22e800d72a9459522
+SHA1: ffc0a175db46a66e58940bc06c8e75ab0335d1f2
+SHA256: 9fb42d0a35a92bbf7482054287faa56593ebb15f383859a29e27d013b0bc19d1
 Icon: https://alsterdev.github.io/packageIcons/widgetIcon.png
 
 Package: com.alsterdev.acls002
 Name: ACLS002 
-Version: 1.0.0 
+Version: 1.1
 Architecture: iphoneos-arm 
 Description: A stylish, re-designed status bar for notchless devices (iPhone X and XS.) Requires XenHTML and XenInfo to be installed.
 Maintainer: AlsterDev 
@@ -25,9 +25,9 @@ Author: AlsterDev
 Section: Addons (XenHTML) 
 Depiction: https://alsterdev.github.io/depics/ACLS002/depiction.html
 Depends: com.matchstic.xenhtml, com.junesiphone.xeninfo
-Filename: debs/com.alsterdev.acls002_1.0.0_iphoneos-arm.deb
-Size: 87740
-MD5sum: 84b42abea8f11c8f720e6f2b9142ad70
-SHA1: d80472d19c74fcc276d89c67203cb1abb9994c8e
-SHA256: 55cc7b608e5b34c5c2a6102c85c1864824539493ff26edecf83e389ebbb9a8bc
+Filename: debs/com.alsterdev.acls002_1.0_iphoneos-arm.deb
+Size: 75112
+MD5sum: 709ef63a334aa325f4f45861ebb496a3
+SHA1: aec7d2349c49cfcc70339cfdc10e461a36f16883
+SHA256: dcd1bf77d5c94d010db08ae4411c3b029e15213d98721e41ac97109376501f8e
 Icon: https://alsterdev.github.io/packageIcons/widgetIcon.png
