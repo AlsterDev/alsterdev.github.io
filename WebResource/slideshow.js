@@ -16,7 +16,7 @@ function generateRandomNumber() {
 function slideshow(){
 	generateRandomNumber();
 	currentInt = randInt;
-	imgSrc = "featuredBannerImages/" + files[randInt][0];
+	imgSrc = "WebResource/images/" + files[randInt][0];
 	imgName = files[randInt][1];
 	imgURL = "sileo://package/" + files[randInt][1];
 	document.getElementById("slideshowImg").src = imgSrc;
@@ -24,4 +24,4 @@ function slideshow(){
 	
 }
 
-setInterval(slideshow, 5000);
+setInterval(slideshow, 8000);
