@@ -18,7 +18,7 @@ function slideshow(){
 	currentInt = randInt;
 	imgSrc = "WebResource/images/" + files[randInt][0];
 	imgName = files[randInt][1];
-	imgURL = "sileo://package/" + files[randInt][1];
+	imgURL = "cydia://url/https://cydia.saurik.com/api/share#?source=https://alsterdev.github.io/&package=" + files[randInt][1];
 	document.getElementById("slideshowImg").src = imgSrc;
 	document.getElementById("slideshowURL").href = imgURL;
 	
