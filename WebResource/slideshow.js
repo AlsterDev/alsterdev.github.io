@@ -1,4 +1,4 @@
-var files = [["ACLS001.png", "ACLS001","com.alsterdev.acls001"], ["ACLS002.png", "ACLS002","com.alsterdev.acls002"]];
+var files = [["ACLS001.png","com.alsterdev.acls001"], ["ACLS002.png","com.alsterdev.acls002"]];
 
 var currentInt;
 
@@ -18,9 +18,8 @@ function slideshow(){
 	currentInt = randInt;
 	imgSrc = "featuredBannerImages/" + files[randInt][0];
 	imgName = files[randInt][1];
-	imgURL = "sileo://package/" + files[randInt][2];
+	imgURL = "sileo://package/" + files[randInt][1];
 	document.getElementById("slideshowImg").src = imgSrc;
-	document.getElementById("slideshowName").innerHTML = imgName;
 	document.getElementById("slideshowURL").href = imgURL;
 	
 }

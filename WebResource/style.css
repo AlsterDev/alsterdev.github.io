@@ -7,7 +7,6 @@ h1{
 	left: 50%;
 	color: #ffffff;
 }
-
 body {
 	background-color: #040413
 }
@@ -44,16 +43,6 @@ img{
 	right: 0;
 	position: absolute;
 	bottom: 2px;
-}
-.slideshowName{
-	font-family: "Arial", Helvetica, sans-serif;
-	font-weight: bold;
-	font-style: normal;
-	font-size: 24px;
-	text-align: center;
-	left: 50%;
-	color: #ffffff;
-	line-height: 28px;
 }
 .twitter {
 	width: 40px; 
